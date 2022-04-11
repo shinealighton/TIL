@@ -1,2 +1,2 @@
-Tody I Learned (¿À´Ã °øºÎÇÑ °Í)
+Tody I Learned (ì˜¤ëŠ˜ ê³µë¶€í•œ ê²ƒ)
 
