@@ -135,4 +135,23 @@
             - VGGNET : VGG16, VGG19
             - ResNet
    
-   
+- #### 2022.04.27
+- <오늘 한 것> :    
+   - (1)
+   - YOLO에 대해 더 중점적으로 개념 공부
+   - 알고리즘 공부 후, face detaction 하기 위해 적용해보고 싶은 것 선택 
+   - (2)
+   - GPU에서 모델을 돌리기 위해, CUDA 설치 (컴퓨터 환경 설정)
+   - tensorflow - gpu로 사용하기 위해 재설치, pytorch -gpu 사용할 수 있는 것으로 설치)
+   - (3)
+   - 실습1. 조금 (0. Importing Libraries), data 확인
+   -.
+   - 즉,
+
+   - <- 1-1. (이미지) 모든 사람의 얼굴 인식> 중
+   - 3) 다른 모델 선택 (마스크 쓴 사람도 인식되도록) (#2게)
+      - (0.)  Face Detection 하기위해  사용할 수 있는 알고리즘 종류 및 개념 
+         - 알고리즘 공부 후, face detaction 하기 위해 적용해보고 싶은 것 선택 
+      - (1. 알고리즘 : ResNet 알고리즘 이용하여 face detection 구현)
+         - 실습1. 1. 따라하기 프로젝트 : 제목 : [Face Mask Detection-Using PyTorch (PyTorch를 사용하여 ResNet 모델로 안면 마스크 감지)] - ResNet 
+
