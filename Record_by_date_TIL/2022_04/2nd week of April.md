@@ -145,7 +145,7 @@
    - tensorflow - gpu로 사용하기 위해 재설치, pytorch -gpu 사용할 수 있는 것으로 설치)
    - (3)
    - 실습1. 조금 (0. Importing Libraries), data 확인
-   -.
+   - .
    - 즉,
 
    - <- 1-1. (이미지) 모든 사람의 얼굴 인식> 중
@@ -155,3 +155,19 @@
       - (1. 알고리즘 : ResNet 알고리즘 이용하여 face detection 구현)
          - 실습1. 1. 따라하기 프로젝트 : 제목 : [Face Mask Detection-Using PyTorch (PyTorch를 사용하여 ResNet 모델로 안면 마스크 감지)] - ResNet 
 
+
+- #### 2022.04.28
+- <오늘 한 것> :
+   - 실습 중, 아래의 개념들 공부.
+      - xmltodict, 
+      - os 모듈(os.walk(), os.path.join(), 등)
+      - 파일 쓰고 닫기( with open('열을 파일명","뭐로열을건지") as 열린파일객체명: )
+      - colltections 모듈의 Counter클래스
+   - .
+   - 즉,
+
+   - **<- 1-1. (이미지) 모든 사람의 얼굴 인식>** 중
+      - 3) 다른 모델 선택 (마스크 쓴 사람도 인식되도록) (#2게)
+         - (1. 알고리즘 : ResNet 알고리즘 이용하여 face detection 구현)
+            - 실습1. 1. 따라하기 프로젝트 : 제목 : [Face Mask Detection-Using PyTorch (PyTorch를 사용하여 ResNet 모델로 안면 마스크 감지)] - ResNet 
+            
